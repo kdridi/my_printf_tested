@@ -1,0 +1,5 @@
+lib*.a
+*.o
+*.gcda
+*.gcno
+unit_tests
